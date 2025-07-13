@@ -1,0 +1,5 @@
+D:/STM_Examples/UART_1/CMakeFiles/UART_1.dir
+D:/STM_Examples/UART_1/CMakeFiles/edit_cache.dir
+D:/STM_Examples/UART_1/CMakeFiles/rebuild_cache.dir
+D:/STM_Examples/UART_1/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+D:/STM_Examples/UART_1/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
